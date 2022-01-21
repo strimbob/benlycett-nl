@@ -1,0 +1,19 @@
+{
+  "title": "Ben Lycett",
+  "images": [
+    {
+      "src": "https://picsum.photos/200/300",
+      "thumbnail": "https://picsum.photos/200/300",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 174
+    },
+    {
+      "src": "https://picsum.photos/200/300",
+      "thumbnail": "https://picsum.photos/200/300",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 212
+    }
+  ],
+  "paragraph": "A web developer, app maker and artistest .Working in React, c++, arduino and live performaces. Realizing ideas that amaze and inspire",
+  "url": "/"
+}

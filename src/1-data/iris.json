@@ -1,0 +1,22 @@
+{
+  "title": "Iris",
+  "images": [
+    {
+      "src": "https://picsum.photos/200/300",
+      "thumbnail": "https://picsum.photos/200/300",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 174
+    },
+    {
+      "src": "https://picsum.photos/200/300",
+      "thumbnail": "https://picsum.photos/200/300",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 212
+    }
+  ],
+
+  "paragraph": "Iris is the first minimal visual sequencer, we focused on iris being intuitive. Iris frees you from time, and organizes your thoughts into space. You can understand how a track will sound just by looking at it, using your visual cortex to help you make music. Plug in to Ableton Live , Logic , Cubase or anything else that uses Midi. By imagining how a visual sequencer should work, we re-thought how time can work. Iris was the result Iris frees you from the constraints of a timeline, enables you to jam, play, create structures on the fly in a repeatable way",
+  "intro": "Iris is a nodal sequencer, made for musicians. Made it in openframeworks and it uses midi so can be pluged in to any daw like Ableton Live. It is  visual sequencer  and you can understand how a track will sound just by looking at it",
+  "url": "/iris",
+  "link": "https://www.youtube.com/embed/2kmlR_NFZKU"
+}

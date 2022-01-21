@@ -1,0 +1,21 @@
+{
+  "title": "Generator",
+  "images": [
+    {
+      "src": "https://picsum.photos/200/300",
+      "thumbnail": "https://picsum.photos/200/300",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 174
+    },
+    {
+      "src": "https://picsum.photos/200/300",
+      "thumbnail": "https://picsum.photos/200/300",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 212
+    }
+  ],
+  "paragraph": "Generator is an immersive, site-specific sound and light installation that captures, relocates and interprets the sounds, colours and movement of the castle’s hydro-electric turbine. Audio and video field recordings from the turbine room and water management structures are processed by the installation’s control system and re-presented as sequenced light animations and spatialised audio - bringing the workings of the ever-present but nonetheless ‘hidden’ generator within the exhibition space itself. Generator explores the exhibition theme by reflecting on the water cycle - the periodic journey water takes as it circulates from land to sky and back again - illustrating how practical responses to notions of ‘seamlessness’ through harnessing the energy of the neighbouring river, has been a part of the workings of the venue for centuries.",
+  "intro": "An installation work exhibited at Museum of Architecture and Design, Ljubljana, Slovenia as part of the exhibtion Seamless: The Digital in Design.",
+  "url": "/generator",
+  "link": "http://www.mao.si/Exhibition/Seamless-The-Digital-in-Design.aspx"
+}

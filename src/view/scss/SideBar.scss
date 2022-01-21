@@ -1,0 +1,27 @@
+.sideBar-wrapper {
+  background: #090534;
+  height: 100vh;
+  z-index: 999;
+  display: flex;
+  .sideBar {
+    min-width: 130px;
+    padding-top: calc(#{$padding} * 2);
+    padding-left: $padding;
+    text-transform: capitalize;
+    font-weight: 600;
+    .sideBar-selected {
+      animation-name: out;
+      animation-duration: 2s;
+      color: $selected;
+    }
+    .sideBar-title {
+      color: $unSelected;
+      transition: color 0.5s ease-in-out;
+    }
+  }
+  .sideBar-Bar {
+    width: $padding;
+    height: 100%;
+    background: $barColor;
+  }
+}

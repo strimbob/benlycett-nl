@@ -1,0 +1,22 @@
+{
+  "title": "Audint",
+  "images": [
+    {
+      "src": "https://picsum.photos/200/300",
+      "thumbnail": "https://picsum.photos/200/300",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 174
+    },
+    {
+      "src": "https://picsum.photos/200/300",
+      "thumbnail": "https://picsum.photos/200/300",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 212
+    }
+  ],
+  "paragraph": "The information embedded within the artwork relates directly to the sonic deception formulas and techniques used by the Ghost Army during the war. Each unique colour used within the painting has a palette of associated sounds that span the audible range and can be layered in various ways to create different sonic textures. Colorcoder is available for download for Apple OSX via audint.net, see demo video below for more.",
+  "intro": "An App made for Audint commistiond by the tate. The programmed to sonically decrypt covert messages composed by Ellsworth Kelly in Colors for a Large Wall 1951.",
+  "url": "/Audint-TATE",
+  "link": "http://www.tate.org.uk/context-comment/articles/hidden-meanings-ellsworth-kelly",
+  "video": "https://player.vimeo.com/video/150266114"
+}

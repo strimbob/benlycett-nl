@@ -1,0 +1,23 @@
+{
+  "title": "stream",
+  "images": [
+    {
+      "src": "https://picsum.photos/200/300",
+      "thumbnail": "https://picsum.photos/200/300",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 174
+    },
+    {
+      "src": "https://player.vimeo.com/video/151553849",
+      "thumbnail": "https://picsum.photos/200/300",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 212
+    }
+  ],
+
+  "paragraph": "The Stream Project brings together cutting-edge neuro-technology with contemporary dance performance, culminating in a multi-media explosion of dance, art and science. It focuses on bringing scientific exploration into a creative environment, taking full advantage of any visual and auditory possibilities. This project has received Arts Council funding and has been partner funded by Manchester Metropolitan University.",
+  "intro": "An installation work exhibited at FACT liverpool. This work used the viewer physiology agains themselfs.",
+  "url": "/stream",
+  "link": "https://streamproject.wordpress.com/",
+  "video": "https://player.vimeo.com/video/151553849"
+}
